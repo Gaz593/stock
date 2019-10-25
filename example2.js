@@ -1,4 +1,4 @@
-(document).ready(function() {
+jQuery(document).ready(function($) {
 
   var dataSet = [
 {id:1, name:"Tiger Nixon", position:"System Architect", office:"Edinburgh", extension:"5421", startDate:"2011/04/25", salary:"Tiger Nixon"},
