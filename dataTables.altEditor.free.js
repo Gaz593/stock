@@ -18,7 +18,7 @@
  *
  *
  */
-
+$j=jQuery.noConflict();
 (function (factory) {
     if (typeof define === 'function' && define.amd) {
         // AMD
